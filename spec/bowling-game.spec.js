@@ -25,7 +25,7 @@ Bowling Rules:
     4. check strike first frame is 10 second is 1/1 and all others 0
     6. check requirements demo : 1/4 4/5 6/4(spare) 5/5(spare) 10(strike) 0/1 7/3(spare) 6/4(spare) 10(strike) 2/8/6 (spare in tenth frame)
     7. check requirements demo and repalce strike in frame 5 to spare : 1/4 4/5 6/4(spare) 5/5(spare) 5/5(spare) 0/1 7/3(spare) 6/4(spare) 10(strike) 2/8/6 (spare in tenth frame)
-    5. 10x12 = 300 (all strikes)
+    8. 10x12 = 300 (all strikes)
 */
 
 
