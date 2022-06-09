@@ -1,0 +1,17 @@
+{
+  "name": "bowling-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jasmin": "^0.0.2"
+  },
+  "devDependencies": {
+    "jasmine": "^4.1.0"
+  },
+  "scripts": {
+    "test": "npx jasmine --config=spec/config/jasmine.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
